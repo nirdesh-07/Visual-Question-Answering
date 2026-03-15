@@ -1,6 +1,6 @@
-# 📷 Visual Question Answering App (ViLT + Hugging Face + Gradio)
+# 📷 Visual Question Answering (ViLT + Hugging Face + Gradio)
 
-A **Visual Question Answering (VQA)** application built using the **ViLT Transformer model** from Hugging Face.  
+A **Visual Question Answering (VQA)** built using the **ViLT Transformer model** from Hugging Face.  
 This app allows users to upload an image and ask questions about it.  
 The model understands both **image + text** and generates intelligent answers.
 
@@ -48,7 +48,6 @@ VQA-ViLT-App/
 ├── model.py
 ├── requirements.txt
 ├── README.md
-└── images/
 ```
 
 ---
@@ -125,7 +124,7 @@ Pillow
 Nirdesh Gupta  
 B.Tech CSE | AI & ML Enthusiast  
   
-LinkedIn: https://linkedin.com/in/your-profile ](https://www.linkedin.com/in/nirdesh-gupta-39ba85313 
+LinkedIn: https://www.linkedin.com/in/nirdesh-gupta-39ba85313 
 
 ---
 
